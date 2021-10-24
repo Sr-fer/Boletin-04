@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE [
+<!DOCTYPE vuelos [
   <!ELEMENT vuelos (vuelo*)>
   <!ELEMENT vuelo (origen, destino)>
   <!ELEMENT origen (#PCDATA)>

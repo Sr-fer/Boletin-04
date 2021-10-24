@@ -9,9 +9,10 @@
 <aeropuertos>
   <aeropuerto>
     <nombre>Berlín Schönefeld (SFX)</nombre>
+    <abierto/>
   </aeropuerto>
   <aeropuerto>
     <nombre>Berlín Tempelhof (THF)</nombre>
-    <cerrado />
+    <cerrado/>
  </aeropuerto>
 </aeropuertos>
